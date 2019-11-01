@@ -15,4 +15,4 @@ The output will share the name with the first image of the input, with an added 
 +
 ![image2](https://raw.githubusercontent.com/borstell/Basic_overlay_image/master/kofta_b.jpg)
 -->
-![output](https://raw.githubusercontent.com/borstell/Basic_overlay_image/master/kofta_a_overlay.jpg)
+![output](https://raw.githubusercontent.com/borstell/Basic_overlay_image/master/kofta_overlay.jpg)
