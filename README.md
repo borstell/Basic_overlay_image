@@ -10,3 +10,5 @@ python3 make_overlay.py image1.jpg,image2.jpg
 ```
 
 The output will share the name with the first image of the input, with an added suffix "`_overlay`" before the file extension – i.e. `image1_overlay.jpg` based on the above example.
+
+![alt text](https://github.com/borstell/Basic_overlay_image/edit/master/kofta_a.jpg)
